@@ -1,3 +1,9 @@
-# Crud-tp
+Trabajo practico final codo a codo full stack pyhon comision 23022
 
-Repo del tp final crud codo a codo python
+Integrantes del grupo
+
+Omar Herrera
+
+Javier Valenzuela
+
+Ariel Petriella
