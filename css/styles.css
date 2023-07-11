@@ -216,7 +216,10 @@ img {
     align-items: center;
   }
   
- 
+ .main-menu__item {
+  padding: 5px;
+  margin-top: 5px;
+ }
 
   .main-menu--show {
     transform: translateY(0%);
